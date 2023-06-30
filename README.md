@@ -3,7 +3,7 @@
 ![The BackRooms](./assets_project/image.jpg)
 
 ## Language
-- [Руское Описание](./dock/description_project/ru_RU.md)
+- [Русcкое Описание](./dock/description_project/ru_RU.md)
 - [Українське Опис](./dock/description_project/uk_UK.md)
 
 ## Description
