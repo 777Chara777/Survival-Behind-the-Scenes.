@@ -41,4 +41,4 @@ If you're interested in contributing to The BackRooms development, we welcome ne
 Join our community of The BackRooms to interact with fellow players, share experiences, and receive the latest news about updates and new game features. We are always open to feedback and suggestions. Contact us via email or leave a review on our forums.
 
 ## Links
-[**Discord**](https://discord.gg/HSH52cfxJX)
+[**Discord**](https://discord.gg/mXKdyJmfJv)
