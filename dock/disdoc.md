@@ -1,11 +1,11 @@
 # The Backrooms: Survival Behind the Scenes - Technical Design Document
 
-Game name: The Backrooms: Survival Behind the Scenes
-Developer: `TheDoorKnob Studio`
-Game engine: MyEngine
-Genre: Cooperative survival horror
-Target audience: 16+ (fans of horror, cooperative games and procedural generation)
-Platforms: PC (Windows, Linux)
+- Game name: The Backrooms: Survival Behind the Scenes
+- Developer: `TheDoorKnob Studio`
+- Game engine: MyEngine
+- Genre: Cooperative survival horror
+- Target audience: 16+ (fans of horror, cooperative games and procedural generation)
+- Platforms: PC (Windows, Linux)
 
 ## Overview
 
