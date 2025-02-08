@@ -1,12 +1,16 @@
 # The BackRooms Files ignore
 .vscode/
-assets/
 tests/
 Game Engine.txt
 start.bat
 test*.py
 Source.md
 *.py?
+
+The_BackRooms/
+
+# exeptions
+!*.pyi
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

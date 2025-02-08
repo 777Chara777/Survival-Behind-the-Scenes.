@@ -1,14 +1,15 @@
-# The BackRooms
+# The Backrooms: Survival Behind the Scenes
 
-![The BackRooms](./assets_project/image.jpg)
+![The Backrooms: Survival Behind the Scenes](./assets_project/image.jpg)
 
 ## Language
+
 - [Руское Описание](./dock/description_project/ru_RU.md)
 - [Українське Опис](./dock/description_project/uk_UK.md)
 
 ## Description
 
-Welcome to the world of The BackRooms! This exciting cooperative game is created by the TempProject team using the TempEngine game engine. Immerse yourself in the atmosphere of unexplored mazes, build, play with friends, and face terrifying monsters in this thrilling adventure.
+Welcome to the world of The BackRooms! This exciting cooperative game is created by 'RedSky Studios' team using [MyEngine](https://github.com/777Chara777/MyEngine) game engine. Immerse yourself in the atmosphere of unexplored mazes, build, play with friends, and face terrifying monsters in this thrilling adventure.
 
 ## Gameplay
 
@@ -34,11 +35,12 @@ The BackRooms is currently in development. We are working on expanding the funct
 
 ## Contributing to the Project
 
-If you're interested in contributing to The BackRooms development, we welcome new developers to join the TempProject team. Visit our GitHub repository and refer to the contribution guide for more information.
+If you're interested in contributing to The BackRooms development, we welcome new developers to join 'RedSky Studios' team. Visit our GitHub repository and refer to the contribution guide for more information.
 
 ## Community and Feedback
 
 Join our community of The BackRooms to interact with fellow players, share experiences, and receive the latest news about updates and new game features. We are always open to feedback and suggestions. Contact us via email or leave a review on our forums.
 
 ## Links
+
 [**Discord**](https://discord.gg/mXKdyJmfJv)
